@@ -1,0 +1,39 @@
+{
+  "name": "nxtep-typedoc-theme",
+  "version": "0.0.7",
+  "description": "A TypeDoc theme for the API-Reference of the NativeScript Cross-Platform Modules, based on Nativescript Typedoc Theme.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxtep-io/nxtep-typedoc-theme.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "tns-core-modules",
+    "api-ref",
+    "typedoc",
+    "theme"
+  ],
+  "author": "Luis <luis@nxtep.io>",
+  "license": "MIT",
+  "homepage": "https://github.com/nxtep-io/nxtep-typedoc-theme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-string-replace": "^1.3.1",
+    "grunt-ts": "^6.0.0-beta.16",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-sass": "^2.3.1",
+    "rimraf": "^2.6.1",
+    "typescript": "^2.3.4"
+  }
+}

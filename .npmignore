@@ -1,0 +1,5 @@
+gulpfile.js
+.npmignore
+.gitmodules
+nativescript-typedoc-theme*.tgz
+**/*.scss
